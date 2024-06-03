@@ -1,0 +1,77 @@
+Order,Year,Month,Product,Salesperson,City,Sales,Unit
+1,2011,September,Pencil,Alok Verma,Indore,16136,295
+2,2011,October,Pen,Abhishek,Surat,9703,574
+3,2011,November,Diary,Vishesh Sharma,Jhansi,11053,196
+4,2011,December,Tape,Raj Kumar,Udaipur,7204,576
+5,2011,September,Scale,Alok Verma,Gurgaon,11412,649
+6,2011,October,Pencil,Abhishek,Indore,13839,540
+7,2011,November,Pen,Vishesh Sharma,Surat,17520,450
+8,2011,December,Diary,Raj Kumar,Jhansi,15476,418
+9,2011,September,Tape,Alok Verma,Udaipur,6875,236
+10,2011,October,Scale,Abhishek,Gurgaon,13165,343
+11,2011,November,Pencil,Vishesh Sharma,Indore,10644,460
+12,2011,December,Pen,Raj Kumar,Surat,16552,623
+13,2011,September,Diary,Alok Verma,Jhansi,11744,182
+14,2011,October,Tape,Abhishek,Udaipur,12038,548
+15,2011,November,Scale,Vishesh Sharma,Gurgaon,8544,611
+16,2011,December,Pencil,Raj Kumar,Indore,8633,557
+17,2011,September,Pen,Vishesh Sharma,Surat,16561,610
+18,2011,October,Diary,Raj Kumar,Jhansi,10572,200
+19,2011,November,Tape,Alok Verma,Udaipur,6665,409
+20,2011,December,Scale,Abhishek,Gurgaon,8615,583
+21,2011,September,Pencil,Raj Kumar,Jhansi,11742,509
+22,2011,October,Pen,Alok Verma,Udaipur,15783,537
+23,2011,November,Diary,Abhishek,Gurgaon,8479,524
+24,2011,December,Tape,Vishesh Sharma,Indore,16494,333
+25,2011,September,Scale,Alok Verma,Surat,12147,371
+26,2011,October,Pencil,Raj Kumar,Udaipur,16652,347
+27,2011,November,Pen,Alok Verma,Gurgaon,7219,212
+28,2011,December,Diary,Abhishek,Indore,11970,190
+29,2011,September,Tape,Vishesh Sharma,Udaipur,7714,372
+30,2011,October,Scale,Vishesh Sharma,Gurgaon,7099,519
+31,2011,November,Pencil,Alok Verma,Jhansi,15538,375
+32,2011,December,Pen,Abhishek,Surat,17514,305
+33,2011,September,Diary,Raj Kumar,Surat,8988,172
+34,2011,October,Tape,Vishesh Sharma,Jhansi,14924,268
+35,2011,November,Scale,Alok Verma,Udaipur,15953,134
+36,2011,December,Pencil,Abhishek,Gurgaon,15659,152
+37,2011,September,Pen,Vishesh Sharma,Indore,7532,249
+38,2011,October,Diary,Vishesh Sharma,Gurgaon,6537,303
+39,2011,November,Tape,Raj Kumar,Surat,16152,96
+40,2011,December,Scale,Abhishek,Jhansi,6750,575
+41,2011,September,Pencil,Abhishek,Udaipur,12705,570
+42,2011,October,Pen,Alok Verma,Jhansi,15863,463
+43,2011,November,Diary,Abhishek,Udaipur,8901,271
+44,2011,December,Tape,Vishesh Sharma,Indore,11805,99
+45,2011,September,Scale,Raj Kumar,Gurgaon,12666,227
+46,2011,October,Diary,Alok Verma,Udaipur,16491,249
+47,2011,November,Pen,Raj Kumar,Indore,17231,103
+48,2011,December,Pencil,Alok Verma,Surat,8106,401
+49,2011,September,Tape,Abhishek,Jhansi,15181,491
+50,2011,October,Scale,Raj Kumar,Gurgaon,12699,86
+51,2011,November,Diary,Abhishek,Indore,10488,321
+52,2011,December,Pen,Vishesh Sharma,Udaipur,11538,401
+53,2011,September,Pencil,Alok Verma,Udaipur,10901,124
+54,2011,October,Diary,Raj Kumar,Surat,13658,350
+55,2011,November,Tape,Abhishek,Gurgaon,7962,321
+56,2011,December,Scale,Vishesh Sharma,Jhansi,7599,467
+57,2011,September,Pen,Alok Verma,Gurgaon,10230,248
+58,2011,October,Scale,Abhishek,Indore,12082,580
+59,2011,November,Pencil,Vishesh Sharma,Udaipur,16437,275
+60,2011,December,Diary,Raj Kumar,Udaipur,10898,246
+61,2011,September,Tape,Vishesh Sharma,Jhansi,15688,438
+62,2011,October,Diary,Abhishek,Surat,8310,234
+63,2011,November,Scale,Alok Verma,Gurgaon,14365,185
+64,2011,December,Pen,Raj Kumar,Indore,15804,275
+65,2011,September,Pencil,Vishesh Sharma,Udaipur,8855,254
+66,2011,October,Tape,Raj Kumar,Jhansi,9199,550
+67,2011,November,Diary,Vishesh Sharma,Gurgaon,8724,140
+68,2011,December,Scale,Abhishek,Surat,12807,208
+69,2011,September,Pen,Abhishek,Udaipur,7003,539
+70,2011,October,Scale,Alok Verma,Indore,6879,491
+71,2011,November,Pencil,Raj Kumar,Surat,10158,114
+72,2011,December,Diary,Alok Verma,Jhansi,10447,134
+73,2011,September,Tape,Vishesh Sharma,Gurgaon,13890,586
+74,2011,October,Diary,Abhishek,Jhansi,9822,362
+75,2011,November,Scale,Raj Kumar,Udaipur,11611,436
+76,2011,December,Pen,Alok Verma,Udaipur,7015,238

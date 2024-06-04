@@ -1,0 +1,102 @@
+UserId,SubscriptionType,JoinYear,Genre,Country,Age,Gender,Device,PlanDuration,MSP,Videoquality,Resolution,CustomerLife,TotalSales
+OTT-2,Basic,2020,Non-Fiction,India,47,Female,Tablet,1 Month,799,Best,4K+HDR,37,4794
+OTT-3,Standard,2021,Self-Help,Thailand,39,Male,Smart TV,1 Month,549,Better,1080p,26,10431
+OTT-4,Premium,2021,Non-Fiction,China,49,Female,Laptop,3 Month,549,Better,1080p,28,13725
+OTT-5,Basic,2020,Romance,Vietnam,39,Male,Smartphone,1 Month,249,Good,720p,41,8715
+OTT-6,Premium,2019,Romance,Philippines,39,Female,Smart TV,3 Month,799,Best,4K+HDR,47,31161
+OTT-7,Basic,2020,Horror,Japan,35,Male,Tablet,1 Month,549,Better,1080p,36,17568
+OTT-8,Standard,2020,Thriller,Thailand,44,Female,Laptop,1 Month,249,Good,720p,25,3984
+OTT-9,Standard,2019,Crime,India,34,Male,Smartphone,3 Month,549,Better,1080p,48,20862
+OTT-10,Basic,2020,Crime,Malaysia,32,Female,Smart TV,6 Month,799,Best,4K+HDR,37,28764
+OTT-11,Premium,2021,Mystery,Japan,29,Female,Smartphone,6 Month,249,Good,720p,33,6474
+OTT-12,Basic,2019,Comedy,South Korea,31,Male,Tablet,3 Month,799,Best,4K+HDR,47,35955
+OTT-13,Standard,2019,Romance,South Korea,29,Female,Laptop,1 Month,549,Better,1080p,42,20862
+OTT-14,Premium,2020,Drama,Thailand,35,Male,Smartphone,1 Month,249,Good,720p,31,5976
+OTT-15,Basic,2019,Fantasy,India,46,Female,Smart TV,3 Month,549,Better,1080p,43,18666
+OTT-16,Basic,2021,Autobiography,Philippines,31,Male,Tablet,1 Month,799,Best,4K+HDR,22,14382
+OTT-17,Basic,2020,Drama,India,36,Female,Laptop,3 Month,249,Good,720p,42,9960
+OTT-18,Standard,2020,Horror,Vietnam,38,Male,Smartphone,1 Month,549,Better,1080p,32,13725
+OTT-19,Premium,2020,Crime,Vietnam,46,Female,Smart TV,6 Month,799,Best,4K+HDR,28,17578
+OTT-20,Basic,2020,Action,Thailand,49,Male,Tablet,1 Month,249,Good,720p,36,6474
+OTT-21,Premium,2019,Comedy,Indonesia,29,Female,Laptop,3 Month,799,Best,4K+HDR,47,32759
+OTT-22,Basic,2021,Horror,India,27,Male,Smartphone,1 Month,249,Good,720p,24,5229
+OTT-23,Standard,2020,Comedy,India,35,Female,Smart TV,3 Month,549,Better,1080p,36,19215
+OTT-24,Standard,2021,Horror,Japan,37,Male,Tablet,6 Month,549,Better,1080p,24,12078
+OTT-25,Basic,2021,Crime,Malaysia,40,Female,Laptop,3 Month,249,Good,720p,24,3735
+OTT-26,Premium,2020,Comedy,South Korea,33,Male,Smartphone,6 Month,799,Best,4K+HDR,36,25568
+OTT-27,Basic,2019,Historical Fiction,Indonesia,37,Female,Smart TV,6 Month,249,Good,720p,48,9960
+OTT-28,Standard,2021,Comedy,China,48,Male,Tablet,1 Month,549,Better,1080p,24,9333
+OTT-29,Premium,2019,Historical Fiction,Singapore,50,Female,Laptop,6 Month,799,Best,4K+HDR,47,34357
+OTT-30,Basic,2020,Historical Fiction,India,45,Male,Smartphone,1 Month,249,Good,720p,36,7968
+OTT-31,Premium,2020,Biography,Vietnam,40,Female,Smart TV,3 Month,799,Best,4K+HDR,36,27965
+OTT-32,Basic,2020,Autobiography,India,33,Male,Tablet,1 Month,249,Good,720p,35,7221
+OTT-33,Standard,2019,Adventure,Thailand,44,Female,Laptop,3 Month,549,Better,1080p,48,25254
+OTT-34,Standard,2021,Thriller,Singapore,30,Male,Smartphone,3 Month,549,Better,1080p,24,8784
+OTT-35,Basic,2020,Action,Thailand,27,Female,Smart TV,1 Month,249,Good,720p,36,6474
+OTT-36,Premium,2021,Biography,Thailand,51,Male,Tablet,3 Month,799,Best,4K+HDR,24,14382
+OTT-37,Basic,2021,Historical Fiction,India,49,Female,Laptop,1 Month,249,Good,720p,24,3984
+OTT-38,Standard,2021,Autobiography,India,43,Male,Smartphone,1 Month,549,Better,1080p,24,12078
+OTT-39,Premium,2021,Non-Fiction,Thailand,42,Female,Smart TV,3 Month,799,Best,4K+HDR,24,11985
+OTT-40,Basic,2019,Adventure,China,45,Male,Tablet,6 Month,249,Good,720p,48,10458
+OTT-41,Premium,2021,Adventure,Japan,36,Female,Laptop,6 Month,799,Best,4K+HDR,24,15181
+OTT-42,Basic,2021,Action,South Korea,48,Male,Smartphone,3 Month,249,Good,720p,24,4482
+OTT-43,Standard,2019,Non-Fiction,Vietnam,38,Female,Smart TV,3 Month,549,Better,1080p,48,21960
+OTT-44,Standard,2021,Crime,China,43,Male,Tablet,1 Month,549,Better,1080p,24,10431
+OTT-45,Basic,2019,Mystery,Japan,47,Female,Laptop,3 Month,249,Good,720p,48,9960
+OTT-46,Premium,2021,Adventure,Singapore,48,Male,Smartphone,6 Month,799,Best,4K+HDR,24,13583
+OTT-47,Basic,2019,Mystery,Indonesia,47,Female,Smart TV,1 Month,249,Good,720p,48,11205
+OTT-48,Standard,2020,Comedy,Malaysia,32,Male,Tablet,6 Month,549,Better,1080p,36,18117
+OTT-49,Premium,2020,Drama,Thailand,47,Female,Laptop,6 Month,799,Best,4K+HDR,36,26367
+OTT-50,Basic,2020,Horror,Philippines,41,Male,Smartphone,3 Month,249,Good,720p,36,7470
+OTT-51,Premium,2019,Science Fiction,Singapore,49,Female,Smart TV,6 Month,799,Best,4K+HDR,48,34357
+OTT-52,Basic,2019,Adventure,Japan,28,Male,Tablet,6 Month,249,Good,720p,48,11703
+OTT-53,Standard,2020,Fantasy,India,40,Female,Laptop,3 Month,549,Better,1080p,36,18117
+OTT-54,Standard,2020,Romance,India,43,Male,Smartphone,3 Month,549,Better,1080p,36,15921
+OTT-55,Basic,2020,Fantasy,China,42,Female,Smart TV,3 Month,249,Good,720p,36,7221
+OTT-56,Premium,2021,Self-Help,South Korea,28,Male,Tablet,6 Month,799,Best,4K+HDR,24,18377
+OTT-57,Basic,2021,Thriller,Indonesia,30,Female,Laptop,1 Month,249,Good,720p,24,4980
+OTT-58,Standard,2019,Mystery,Malaysia,33,Male,Smartphone,1 Month,549,Better,1080p,48,25254
+OTT-59,Premium,2021,Mystery,Vietnam,35,Female,Smart TV,1 Month,799,Best,4K+HDR,24,16779
+OTT-60,Basic,2021,Thriller,Indonesia,38,Male,Tablet,3 Month,249,Good,720p,23,3735
+OTT-61,Premium,2020,Romance,Vietnam,49,Female,Laptop,6 Month,799,Best,4K+HDR,36,20774
+OTT-62,Basic,2021,Autobiography,India,39,Male,Smartphone,3 Month,249,Good,720p,24,5478
+OTT-63,Standard,2019,Autobiography,Malaysia,46,Female,Smart TV,3 Month,549,Better,1080p,48,22509
+OTT-64,Standard,2021,Drama,India,47,Male,Tablet,3 Month,549,Better,1080p,24,10431
+OTT-65,Basic,2021,Biography,Malaysia,30,Female,Laptop,6 Month,249,Good,720p,24,4482
+OTT-66,Premium,2020,Fantasy,Philippines,33,Male,Smartphone,6 Month,799,Best,4K+HDR,36,25568
+OTT-67,Basic,2020,Romance,China,47,Female,Smart TV,6 Month,249,Good,720p,36,6723
+OTT-68,Standard,2020,Drama,India,27,Male,Tablet,3 Month,549,Better,1080p,36,19215
+OTT-69,Premium,2019,Science Fiction,China,28,Female,Laptop,1 Month,799,Best,4K+HDR,48,32759
+OTT-70,Basic,2021,Autobiography,South Korea,47,Male,Smartphone,1 Month,249,Good,720p,24,5727
+OTT-71,Basic,2020,Comedy,Malaysia,30,Male,Smartphone,1 Month,249,Good,720p,36,7968
+OTT-72,Basic,2020,Crime,South Korea,47,Female,Smartphone,1 Month,249,Good,720p,36,7470
+OTT-73,Standard,2020,Action,South Korea,51,Female,Laptop,1 Month,549,Better,1080p,36,16470
+OTT-74,Premium,2019,Autobiography,Philippines,39,Female,Smartphone,1 Month,799,Best,4K+HDR,47,35955
+OTT-75,Basic,2021,Non-Fiction,South Korea,45,Female,Laptop,1 Month,249,Good,720p,24,4233
+OTT-76,Basic,2020,Science Fiction,India,31,Female,Laptop,3 Month,249,Good,720p,36,6723
+OTT-77,Premium,2021,Autobiography,India,29,Female,Smartphone,3 Month,799,Best,4K+HDR,24,12784
+OTT-78,Standard,2020,Crime,China,42,Male,Tablet,1 Month,549,Better,1080p,36,14274
+OTT-79,Standard,2021,Adventure,Philippines,49,Female,Laptop,3 Month,549,Better,1080p,24,11529
+OTT-80,Basic,2020,Autobiography,South Korea,42,Male,Tablet,6 Month,249,Good,720p,36,6972
+OTT-81,Premium,2021,Self-Help,South Korea,29,Male,Tablet,6 Month,799,Best,4K+HDR,23,17578
+OTT-82,Standard,2020,Self-Help,China,29,Male,Laptop,6 Month,549,Better,1080p,36,18666
+OTT-83,Basic,2020,Adventure,Thailand,49,Female,Smartphone,3 Month,249,Good,720p,36,6723
+OTT-84,Standard,2020,Comedy,Japan,32,Male,Smartphone,6 Month,549,Better,1080p,36,18666
+OTT-85,Premium,2019,Biography,Singapore,35,Female,Laptop,1 Month,799,Best,4K+HDR,47,32759
+OTT-86,Basic,2019,Romance,Indonesia,39,Female,Smartphone,6 Month,249,Good,720p,48,11205
+OTT-87,Premium,2020,Non-Fiction,Thailand,40,Male,Smart TV,3 Month,799,Best,4K+HDR,36,20774
+OTT-88,Standard,2020,Action,Indonesia,39,Male,Tablet,1 Month,549,Better,1080p,36,15372
+OTT-89,Basic,2020,Mystery,Japan,47,Male,Smartphone,3 Month,249,Good,720p,35,6474
+OTT-90,Standard,2019,Mystery,China,49,Female,Smartphone,3 Month,549,Better,1080p,48,24156
+OTT-91,Premium,2021,Historical Fiction,Philippines,39,Male,Tablet,3 Month,799,Best,4K+HDR,24,15980
+OTT-92,Basic,2021,Self-Help,South Korea,39,Male,Smart TV,3 Month,249,Good,720p,24,4233
+OTT-93,Standard,2019,Crime,South Korea,35,Male,Smartphone,6 Month,549,Better,1080p,48,23058
+OTT-94,Premium,2020,Science Fiction,China,44,Male,Smartphone,6 Month,799,Best,4K+HDR,36,24769
+OTT-95,Basic,2021,Drama,Malaysia,34,Male,Laptop,6 Month,249,Good,720p,24,4233
+OTT-96,Premium,2019,Historical Fiction,Malaysia,32,Male,Laptop,6 Month,799,Best,4K+HDR,48,31161
+OTT-97,Basic,2020,Thriller,Indonesia,29,Female,Tablet,3 Month,249,Good,720p,36,7470
+OTT-98,Standard,2019,Non-Fiction,Japan,31,Female,Tablet,3 Month,549,Better,1080p,48,25254
+OTT-99,Standard,2020,Autobiography,Philippines,29,Female,Tablet,1 Month,549,Better,1080p,36,14823
+OTT-100,Basic,2020,Drama,Japan,35,Male,Laptop,1 Month,249,Good,720p,36,8466
+OTT-101,Basic,2021,Comedy,Vietnam,46,Female,Tablet,3 Month,799,Best,4K+HDR,24,13583
+OTT-102,Premium,2021,Science Fiction,Indonesia,31,Male,Tablet,3 Month,249,Good,720p,24,3735

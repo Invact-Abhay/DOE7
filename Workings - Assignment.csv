@@ -1,4 +1,4 @@
-Month,Category,Product Id,Region,State,Salesperson,Segment,Price,Unit,Sales,Profit
+Month,Category,ProductId,Region,State,Salesperson,Segment,Price,Unit,Sales,Profit
 February,Office Supplies,OFF-LA-10000240,North India,Jammu and Kashmir,Alex,Consumer,500,179,89500,10740
 May,Furniture,FUR-PH-10002500,West India,Maharashtra,Sachin,Consumer,14000,250,3500000,595000
 November,Technology,TEC-PH-10002275,West India,Gujarat,Farookh,Corporate,20000,117,2340000,397800

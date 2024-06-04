@@ -1,0 +1,75 @@
+Month,Product,Region,Salesperson,State,Price,Category,Unit,Sales
+January,Antique Vases,North,Anil,Meghalaya,499,Below 1000,270,134730
+February,Sculptures,South,Santosh,Arunachal Pradesh,1200,Above 1000,268,321600
+March,Ceramic Figurines,East,Keshav,Haryana,2000,Above 1000,198,396000
+April,Miniature Landscapes,West,Kishan,Sikkim,870,Below 1000,339,294930
+May,Buddha Statues,North,Sanjay,Punjab,1050,Above 1000,319,334950
+June,Candle Holders,South,Anil,Meghalaya,300,Below 1000,346,103800
+July,Artistic Clocks,East,Santosh,Arunachal Pradesh,900,Below 1000,370,333000
+August,Antique Vases,West,Keshav,Haryana,499,Below 1000,207,103293
+September,Sculptures,North,Kishan,Sikkim,1200,Above 1000,321,385200
+October,Ceramic Figurines,South,Sanjay,Punjab,2000,Above 1000,424,848000
+November,Miniature Landscapes,East,Anil,Meghalaya,870,Below 1000,239,207930
+December,Buddha Statues,West,Santosh,Arunachal Pradesh,1050,Above 1000,163,171150
+January,Candle Holders,North,Keshav,Haryana,300,Below 1000,317,95100
+February,Artistic Clocks,South,Kishan,Sikkim,900,Below 1000,162,145800
+March,Antique Vases,East,Sanjay,Punjab,499,Below 1000,170,84830
+April,Sculptures,West,Anil,Meghalaya,1200,Above 1000,415,498000
+May,Ceramic Figurines,North,Santosh,Arunachal Pradesh,2000,Above 1000,389,778000
+June,Miniature Landscapes,South,Keshav,Haryana,870,Below 1000,265,230550
+July,Buddha Statues,East,Kishan,Sikkim,1050,Above 1000,207,217350
+August,Candle Holders,West,Sanjay,Punjab,300,Below 1000,145,43500
+September,Artistic Clocks,North,Anil,Meghalaya,900,Below 1000,281,252900
+October,Antique Vases,South,Santosh,Arunachal Pradesh,499,Below 1000,253,126247
+November,Sculptures,East,Keshav,Haryana,1200,Above 1000,286,343200
+December,Ceramic Figurines,West,Kishan,Sikkim,2000,Above 1000,241,482000
+November,Antique Vases,West,Anil,Meghalaya,499,Below 1000,81,40419
+December,Sculptures,North,Santosh,Arunachal Pradesh,1200,Above 1000,129,154800
+January,Ceramic Figurines,South,Keshav,Haryana,2000,Above 1000,83,166000
+February,Miniature Landscapes,East,Kishan,Sikkim,870,Below 1000,326,283620
+March,Buddha Statues,West,Sanjay,Punjab,1050,Above 1000,234,245700
+April,Candle Holders,North,Anil,Meghalaya,300,Below 1000,124,37200
+May,Artistic Clocks,South,Santosh,Arunachal Pradesh,900,Below 1000,322,289800
+June,Antique Vases,East,Keshav,Haryana,499,Below 1000,218,108782
+July,Sculptures,West,Kishan,Sikkim,1200,Above 1000,89,106800
+August,Ceramic Figurines,North,Sanjay,Punjab,2000,Above 1000,147,294000
+September,Miniature Landscapes,South,Anil,Meghalaya,870,Below 1000,188,163560
+October,Buddha Statues,East,Santosh,Arunachal Pradesh,1050,Above 1000,218,228900
+November,Candle Holders,West,Keshav,Haryana,300,Below 1000,386,115800
+December,Artistic Clocks,North,Kishan,Sikkim,900,Below 1000,70,63000
+January,Antique Vases,South,Sanjay,Punjab,499,Below 1000,188,93812
+February,Sculptures,East,Anil,Meghalaya,1200,Above 1000,198,237600
+March,Ceramic Figurines,West,Santosh,Arunachal Pradesh,2000,Above 1000,175,350000
+April,Miniature Landscapes,North,Keshav,Haryana,870,Below 1000,243,211410
+May,Buddha Statues,South,Kishan,Sikkim,1050,Above 1000,259,271950
+June,Candle Holders,East,Sanjay,Punjab,300,Below 1000,94,28200
+July,Artistic Clocks,West,Anil,Meghalaya,900,Below 1000,369,332100
+August,Antique Vases,North,Santosh,Arunachal Pradesh,499,Below 1000,389,194111
+September,Sculptures,South,Keshav,Haryana,1200,Above 1000,87,104400
+October,Ceramic Figurines,East,Kishan,Sikkim,2000,Above 1000,438,876000
+November,Miniature Landscapes,West,Sanjay,Punjab,870,Below 1000,356,309720
+December,Buddha Statues,North,Anil,Meghalaya,1050,Above 1000,237,248850
+January,Candle Holders,South,Santosh,Arunachal Pradesh,300,Below 1000,361,108300
+February,Artistic Clocks,East,Keshav,Haryana,900,Below 1000,404,363600
+March,Antique Vases,West,Kishan,Sikkim,499,Below 1000,214,106786
+April,Sculptures,North,Sanjay,Punjab,1200,Above 1000,148,177600
+May,Ceramic Figurines,South,Anil,Meghalaya,2000,Above 1000,70,140000
+June,Miniature Landscapes,East,Santosh,Arunachal Pradesh,870,Below 1000,278,241860
+July,Buddha Statues,West,Keshav,Haryana,1050,Above 1000,107,112350
+August,Candle Holders,North,Kishan,Sikkim,300,Below 1000,308,92400
+September,Artistic Clocks,South,Sanjay,Punjab,900,Below 1000,221,198900
+October,Antique Vases,East,Anil,Meghalaya,499,Below 1000,361,180139
+November,Sculptures,West,Santosh,Arunachal Pradesh,1200,Above 1000,241,289200
+December,Ceramic Figurines,North,Keshav,Haryana,2000,Above 1000,372,744000
+January,Miniature Landscapes,South,Kishan,Sikkim,870,Below 1000,322,280140
+February,Buddha Statues,East,Sanjay,Punjab,1050,Above 1000,446,468300
+March,Candle Holders,West,Anil,Meghalaya,300,Below 1000,71,21300
+April,Artistic Clocks,North,Santosh,Arunachal Pradesh,900,Below 1000,228,205200
+May,Antique Vases,South,Keshav,Haryana,499,Below 1000,146,72854
+June,Sculptures,East,Kishan,Sikkim,1200,Above 1000,241,289200
+July,Ceramic Figurines,West,Sanjay,Punjab,2000,Above 1000,193,386000
+August,Miniature Landscapes,North,Anil,Meghalaya,870,Below 1000,205,178350
+September,Buddha Statues,South,Santosh,Arunachal Pradesh,1050,Above 1000,88,92400
+October,Candle Holders,East,Keshav,Haryana,300,Below 1000,222,66600
+November,Artistic Clocks,West,Kishan,Sikkim,900,Below 1000,154,138600
+December,Antique Vases,North,Sanjay,Punjab,499,Below 1000,106,52894

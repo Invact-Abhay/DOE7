@@ -1,0 +1,102 @@
+Month,Category,Product Id,Region,State,Salesperson,Segment,Price,Unit,Sales,Profit
+February,Office Supplies,OFF-LA-10000240,North India,Jammu and Kashmir,Alex,Consumer,500,179,89500,10740
+May,Furniture,FUR-PH-10002500,West India,Maharashtra,Sachin,Consumer,14000,250,3500000,595000
+November,Technology,TEC-PH-10002275,West India,Gujarat,Farookh,Corporate,20000,117,2340000,397800
+September,Furniture,FUR-PH-10002500,South India,Telangana,Pravin,Consumer,14000,200,2800000,448000
+April,Office Supplies,OFF-LA-10000240,East India,West Bengal,Farookh,Home Office,500,345,172500,32775
+January,Technology,TEC-PH-10002275,South India,Andhra Pradesh,Farookh,Consumer,20000,382,7640000,1069600
+December,Technology,TEC-PH-10002275,West India,Maharashtra,Pravin,Consumer,20000,19,380000,76000
+April,Office Supplies,OFF-LA-10000240,North India,Jammu and Kashmir,Pravin,Consumer,500,40,20000,3800
+March,Technology,TEC-PH-10002275,West India,Maharashtra,Sachin,Consumer,20000,196,3920000,548800
+April,Furniture,FUR-PH-10002500,South India,Karnataka,Pravin,Consumer,14000,245,3430000,445900
+October,Technology,TEC-PH-10002275,West India,Rajasthan,Farookh,Consumer,20000,465,9300000,1209000
+February,Technology,TEC-PH-10002275,West India,Maharashtra,Alex,Consumer,20000,163,3260000,456400
+December,Technology,TEC-PH-10002275,West India,Rajasthan,Farookh,Consumer,20000,449,8980000,1436800
+January,Technology,TEC-PH-10002275,West India,Gujarat,Farookh,Consumer,20000,22,440000,48400
+September,Technology,TEC-PH-10002275,South India,Karnataka,Sachin,Home Office,20000,292,5840000,1109600
+May,Office Supplies,OFF-LA-10000240,West India,Maharashtra,Farookh,Home Office,600,220,132000,13200
+August,Technology,TEC-PH-10002275,West India,Rajasthan,Pravin,Consumer,20000,127,2540000,355600
+January,Office Supplies,OFF-LA-10000240,South India,Telangana,Pravin,Consumer,600,300,180000,19800
+June,Technology,TEC-PH-10002275,North India,Himachal Pradesh,Sachin,Consumer,20000,267,5340000,961200
+June,Office Supplies,OFF-LA-10000240,West India,Maharashtra,Alex,Consumer,200,364,72800,8736
+May,Furniture,FUR-PH-10002500,South India,Karnataka,Farookh,Consumer,12000,389,4668000,466800
+March,Office Supplies,OFF-LA-10000240,North India,Punjab,Farookh,Corporate,200,265,53000,7950
+March,Office Supplies,OFF-LA-10000240,North India,Punjab,Sachin,Corporate,200,347,69400,9022
+January,Technology,TEC-PH-10002275,East India,Bihar,Farookh,Consumer,20000,388,7760000,1474400
+July,Furniture,FUR-PH-10002500,South India,Andhra Pradesh,Sachin,Consumer,12000,119,1428000,271320
+March,Technology,TEC-PH-10002275,West India,Gujarat,Farookh,Consumer,20000,328,6560000,1115200
+August,Office Supplies,OFF-LA-10000240,North India,Jammu and Kashmir,Farookh,Consumer,200,261,52200,10440
+November,Furniture,FUR-PH-10002500,North India,Jammu and Kashmir,Alex,Consumer,12000,500,6000000,1020000
+April,Furniture,FUR-PH-10002500,East India,West Bengal,Alex,Consumer,12000,419,5028000,905040
+November,Technology,TEC-PH-10002275,East India,West Bengal,Alex,Consumer,20000,409,8180000,818000
+February,Technology,TEC-PH-10002275,North India,Jammu and Kashmir,Farookh,Consumer,20000,24,480000,57600
+August,Furniture,FUR-PH-10002500,South India,Andhra Pradesh,Sachin,Consumer,12000,292,3504000,560640
+September,Technology,TEC-PH-10002275,North India,Himachal Pradesh,Sachin,Consumer,20000,92,1840000,184000
+October,Technology,TEC-PH-10002275,South India,Karnataka,Pravin,Consumer,20000,30,600000,114000
+January,Office Supplies,OFF-LA-10000240,North India,Himachal Pradesh,Sachin,Home Office,300,271,81300,14634
+June,Furniture,FUR-PH-10002500,West India,Maharashtra,Sachin,Corporate,14000,213,2982000,566580
+April,Office Supplies,OFF-LA-10000240,North India,Himachal Pradesh,Alex,Corporate,300,405,121500,13365
+February,Technology,TEC-PH-10002275,North India,Punjab,Farookh,Home Office,20000,94,1880000,188000
+July,Furniture,FUR-PH-10002500,West India,Maharashtra,Pravin,Home Office,14000,485,6790000,1290100
+July,Technology,TEC-PH-10002275,West India,Maharashtra,Pravin,Home Office,20000,192,3840000,499200
+December,Technology,TEC-PH-10002275,South India,Andhra Pradesh,Sachin,Home Office,20000,255,5100000,918000
+November,Furniture,FUR-PH-10002500,South India,Telangana,Sachin,Corporate,14000,287,4018000,642880
+February,Technology,TEC-PH-10002275,East India,Bihar,Sachin,Corporate,20000,378,7560000,1285200
+September,Office Supplies,OFF-LA-10000240,South India,Andhra Pradesh,Alex,Corporate,400,484,193600,36784
+November,Furniture,FUR-PH-10002500,North India,Himachal Pradesh,Pravin,Corporate,9000,454,4086000,776340
+February,Office Supplies,OFF-LA-10000240,South India,Karnataka,Sachin,Corporate,400,431,172400,27584
+April,Furniture,FUR-PH-10002500,East India,Bihar,Alex,Consumer,9000,267,2403000,432540
+December,Technology,TEC-PH-10002275,South India,Andhra Pradesh,Farookh,Consumer,10000,270,2700000,459000
+August,Office Supplies,OFF-LA-10000240,East India,West Bengal,Farookh,Consumer,400,122,48800,7320
+November,Technology,TEC-PH-10002275,West India,Gujarat,Pravin,Consumer,10000,334,3340000,334000
+February,Technology,TEC-PH-10002275,North India,Jammu and Kashmir,Sachin,Consumer,10000,367,3670000,660600
+December,Furniture,FUR-PH-10002500,North India,Himachal Pradesh,Farookh,Consumer,9000,156,1404000,140400
+December,Technology,TEC-PH-10002275,North India,Jammu and Kashmir,Alex,Consumer,10000,154,1540000,215600
+October,Technology,TEC-PH-10002275,West India,Rajasthan,Pravin,Corporate,10000,226,2260000,226000
+August,Furniture,FUR-PH-10002500,South India,Karnataka,Sachin,Corporate,5000,449,2245000,314300
+May,Furniture,FUR-PH-10002500,West India,Maharashtra,Pravin,Consumer,5000,317,1585000,174350
+May,Technology,TEC-PH-10002275,North India,Punjab,Farookh,Consumer,10000,406,4060000,527800
+February,Office Supplies,OFF-LA-10000240,West India,Maharashtra,Pravin,Consumer,700,248,173600,34720
+May,Furniture,FUR-PH-10002500,East India,Bihar,Pravin,Consumer,5000,259,1295000,207200
+March,Office Supplies,OFF-LA-10000240,East India,Bihar,Alex,Consumer,700,292,204400,24528
+July,Technology,TEC-PH-10002275,West India,Maharashtra,Farookh,Consumer,10000,141,1410000,183300
+September,Technology,TEC-PH-10002275,North India,Himachal Pradesh,Pravin,Consumer,10000,155,1550000,294500
+September,Furniture,FUR-PH-10002500,East India,West Bengal,Farookh,Consumer,5000,41,205000,28700
+April,Furniture,FUR-PH-10002500,South India,Karnataka,Alex,Consumer,5000,219,1095000,153300
+February,Office Supplies,OFF-LA-10000240,East India,Odisha,Alex,Consumer,700,341,238700,26257
+December,Technology,TEC-PH-10002275,South India,Telangana,Farookh,Consumer,10000,432,4320000,820800
+August,Office Supplies,OFF-LA-10000240,South India,Karnataka,Pravin,Home Office,700,371,259700,51940
+August,Furniture,FUR-PH-10002500,North India,Jammu and Kashmir,Pravin,Corporate,5000,191,955000,181450
+August,Technology,TEC-PH-10002275,South India,Telangana,Sachin,Corporate,10000,325,3250000,585000
+January,Furniture,FUR-PH-10002500,North India,Jammu and Kashmir,Sachin,Consumer,5000,373,1865000,186500
+March,Office Supplies,OFF-LA-10000240,West India,Gujarat,Farookh,Consumer,400,343,137200,26068
+June,Technology,TEC-PH-10002275,South India,Andhra Pradesh,Pravin,Consumer,20000,364,7280000,1310400
+December,Office Supplies,OFF-LA-10000240,West India,Rajasthan,Farookh,Consumer,400,53,21200,3180
+July,Technology,TEC-PH-10002275,West India,Gujarat,Pravin,Consumer,20000,366,7320000,1244400
+April,Technology,TEC-PH-10002275,South India,Telangana,Pravin,Consumer,20000,441,8820000,1675800
+November,Furniture,FUR-PH-10002500,East India,Bihar,Sachin,Corporate,7000,4,28000,3080
+December,Technology,TEC-PH-10002275,South India,Telangana,Sachin,Corporate,20000,243,4860000,680400
+April,Technology,TEC-PH-10002275,East India,West Bengal,Sachin,Corporate,20000,138,2760000,276000
+May,Furniture,FUR-PH-10002500,West India,Maharashtra,Sachin,Consumer,7000,142,994000,139160
+October,Office Supplies,OFF-LA-10000240,South India,Karnataka,Pravin,Corporate,400,238,95200,11424
+August,Technology,TEC-PH-10002275,South India,Andhra Pradesh,Sachin,Corporate,20000,292,5840000,1109600
+October,Furniture,FUR-PH-10002500,East India,Bihar,Sachin,Consumer,7000,51,357000,60690
+May,Technology,TEC-PH-10002275,West India,Rajasthan,Pravin,Consumer,20000,22,440000,83600
+January,Office Supplies,OFF-LA-10000240,East India,Odisha,Alex,Corporate,200,30,6000,1080
+January,Office Supplies,OFF-LA-10000240,West India,Rajasthan,Alex,Home Office,200,125,25000,3500
+July,Technology,TEC-PH-10002275,East India,West Bengal,Farookh,Consumer,20000,217,4340000,434000
+February,Furniture,FUR-PH-10002500,West India,Gujarat,Pravin,Consumer,7000,243,1701000,187110
+February,Technology,TEC-PH-10002275,North India,Punjab,Farookh,Consumer,20000,91,1820000,291200
+April,Technology,TEC-PH-10002275,South India,Telangana,Sachin,Home Office,20000,386,7720000,1544000
+February,Technology,TEC-PH-10002275,West India,Maharashtra,Pravin,Corporate,20000,198,3960000,633600
+March,Furniture,FUR-PH-10002500,South India,Andhra Pradesh,Farookh,Corporate,7000,427,2989000,358680
+December,Office Supplies,OFF-LA-10000240,North India,Jammu and Kashmir,Sachin,Corporate,200,381,76200,10668
+January,Furniture,FUR-PH-10002500,North India,Himachal Pradesh,Alex,Consumer,7000,386,2702000,297220
+September,Furniture,FUR-PH-10002500,West India,Rajasthan,Pravin,Consumer,7000,386,2702000,459340
+March,Technology,TEC-PH-10002275,South India,Andhra Pradesh,Sachin,Consumer,10000,448,4480000,537600
+February,Technology,TEC-PH-10002275,East India,Bihar,Alex,Home Office,13000,185,2405000,384800
+August,Furniture,FUR-PH-10002500,West India,Gujarat,Pravin,Home Office,14300,477,6821100,1296009
+June,Technology,TEC-PH-10002275,North India,Himachal Pradesh,Alex,Consumer,10000,300,3000000,360000
+November,Technology,TEC-PH-10002275,East India,Odisha,Alex,Corporate,15550,183,2845650,284565
+October,Furniture,FUR-PH-10002500,North India,Himachal Pradesh,Sachin,Home Office,10000,347,3470000,694000
+December,Furniture,FUR-PH-10002500,North India,Punjab,Farookh,Home Office,30000,379,11370000,1932900

@@ -1,0 +1,101 @@
+FreelancerName,Service,City,Age,NumberOfProjects,Ratings,PricePerProject,TotalEarnings
+Anya Sardar,Graphic Designer,Delhi,28,86,8.5,9926,853636
+Anya Gupta,Web Developer,Chennai,42,97,7.0,12016,1165552
+Shakti Parikh,Social media,Bengaluru,40,281,8.5,9634,2707154
+Amrit Limbu,Photographer,Chennai,39,210,9.0,8530,1791300
+Parvati Jayavant,Virtual Assistant,Bengaluru,31,63,6.0,8431,531153
+Radha Jogalekar,Translator,Bengaluru,36,247,7.0,8772,2166684
+Kamala Devadhikar,Copywriter,Delhi,36,131,9.0,10890,1426590
+Sanskriti Vad,Editor,Chennai,33,250,6.5,5263,1315750
+Rani Adhya,Content writing,Mumbai,29,141,9.0,10115,1426215
+Usha Bagchi,Freelance writer,Mumbai,35,300,7.0,8087,2426100
+Megaduta Sharma,Data Entry Operator,Delhi,29,254,8.0,13967,3547618
+Madhava Srivastav,Tutor,Chennai,35,133,9.0,11832,1573656
+Acarya Vaikar,SEO Specialist,Chennai,39,107,9.5,6647,711229
+Yogarasa Patel,Admin assistance,Mumbai,25,170,6.0,9926,1687420
+Saurabh Havaldar,Marketers,Kolkata,44,68,7.5,11003,748204
+Aditya Srivastav,Graphic Designer,Delhi,30,167,9.0,12814,2139938
+Kanada Vyas,Web Developer,Bengaluru,38,128,7.0,6056,775168
+Dyal Mukhtar,Social media,Pune,38,285,7.5,14770,4209450
+Peeyush Devdhar,Photographer,Mumbai,28,223,8.0,12848,2865104
+Vijya Badakar,Virtual Assistant,Pune,40,134,8.0,6254,838036
+Vinod Jadhav,Translator,Chennai,41,104,9.0,10727,1115608
+Daya Jayavant,Copywriter,Kolkata,35,178,9.0,11963,2129414
+Yogarasa Pandey,Editor,Bengaluru,38,59,7.0,14836,875324
+Kanada Vyas,Content writing,Chennai,28,235,8.0,10229,2403815
+Navin Srivastav,Freelance writer,Kolkata,43,195,8.5,12612,2459340
+Kahoda Upandhye,Data Entry Operator,Mumbai,41,157,8.0,14841,2330037
+Saurabh Ayyar,Tutor,Pune,39,171,7.0,14594,2495574
+Din Panda,SEO Specialist,Kolkata,45,120,6.0,12039,1444680
+Jayadeva Prabhu,Admin assistance,Mumbai,41,157,6.5,9367,1470619
+Alia Upasani,Marketers,Delhi,44,144,6.0,11532,1660608
+Durgautti Choraghad,Graphic Designer,Pune,31,142,7.5,8781,1246902
+Jayanti Nan,Web Developer,Mumbai,26,106,8.5,12384,1312704
+Bhairavi Upadhyay,Social media,Pune,45,206,8.0,12272,2528032
+Nupur Singh,Photographer,Delhi,31,293,8.5,11037,3233841
+Komal Upasani,Virtual Assistant,Delhi,29,247,9.0,5571,1376037
+Jyoti Bandyopadhyay,Translator,Chennai,26,66,8.0,6470,427020
+Surya Thacker,Copywriter,Pune,38,109,7.0,11830,1289470
+Snigdha Devadhikar,Editor,Chennai,29,180,7.0,5211,937980
+Mina Jadhav,Content writing,Bengaluru,25,239,7.5,12310,2942090
+Aditi Sharma,Freelance writer,Bengaluru,41,267,7.5,8930,2384310
+Ananya Phadanis,Data Entry Operator,Pune,34,153,9.5,9772,1495116
+Rekha Bakshi,Tutor,Delhi,42,275,7.5,8638,2375450
+Maya Poddar,SEO Specialist,Bengaluru,39,95,7.5,13291,1262645
+Draupati Prabhu,Admin assistance,Chennai,39,246,8.5,9681,2381526
+Vijaya Divakar,Marketers,Delhi,31,55,6.0,6803,374165
+Durgawati Deshmukh,Graphic Designer,Kolkata,44,189,8.0,9976,1885464
+Jyoti Bajpai,Web Developer,Bengaluru,38,183,9.5,10865,1988295
+Sumati Vaknis,Social media,Bengaluru,35,251,7.0,13423,3369173
+Salani Poddar,Photographer,Mumbai,35,126,7.0,13893,1750518
+Ishwar Sharma,Virtual Assistant,Kolkata,29,296,8.0,10398,3077808
+Baibhav Bhardvaj,Translator,Kolkata,42,62,9.0,14206,880772
+Vikramaditya Thakre,Copywriter,Pune,45,187,8.0,6315,1180905
+Chander Dhebar,Editor,Delhi,29,198,8.5,11150,2207700
+Asvalayana Badakar,Content writing,Delhi,43,227,9.5,6961,1580147
+Gagan Raj,Freelance writer,Pune,31,281,6.0,13970,3925570
+Baibhav Phadatare,Data Entry Operator,Delhi,41,118,8.0,9577,1130086
+Aditya Joshi,Tutor,Chennai,25,292,8.0,12443,3633356
+Jaswant Mahanti,SEO Specialist,Bengaluru,29,218,9.5,11345,2473210
+Varuni Thakre,Admin assistance,Mumbai,26,239,9.0,7827,1870653
+Abhinav Divekar,Marketers,Kolkata,28,190,8.5,11236,2134840
+Vinod Bhate,Graphic Designer,Chennai,42,273,8.0,5739,1566747
+Pranav Shree,Web Developer,Chennai,33,131,7.0,7321,959051
+Peeyush Mandalik,Social media,Chennai,30,157,6.0,11368,1784776
+Prashant Gurnani,Photographer,Mumbai,32,290,6.0,14073,4081170
+Dyal Bhatavadekar,Virtual Assistant,Delhi,38,162,8.0,8895,1440990
+Gauri Devdhar,Translator,Bengaluru,45,277,8.5,13503,3740331
+Sarama Punja,Copywriter,Pune,34,124,7.5,11243,1394132
+Shakti Joshi,Editor,Pune,45,277,8.5,9908,2744516
+Sanskriti Choraghad,Content writing,Bengaluru,45,113,6.5,8121,917673
+Saryu Dalavi,Freelance writer,Pune,44,196,8.5,11452,2244592
+Divya Nancy,Data Entry Operator,Delhi,32,205,9.5,12577,2578285
+Sarasvati Havaldar,Tutor,Bengaluru,31,159,9.5,7824,1244016
+Mahi Bajpai,SEO Specialist,Mumbai,30,221,8.5,11640,2572440
+Bhageerathi Holkar,Admin assistance,Pune,33,242,8.0,13076,3164392
+Cheeno Upadhyay,Marketers,Pune,30,270,7.0,10654,2876580
+Aditi Mukhtar,Graphic Designer,Delhi,28,274,9.0,6652,1822648
+Shinu Sinha,Web Developer,Mumbai,31,187,7.5,14245,2663815
+Anu Rajavade,Social media,Mumbai,26,217,8.5,5380,1167460
+Indira Tavade,Photographer,Pune,33,262,9.5,7680,2012160
+Leela Kamal,Virtual Assistant,Kolkata,28,211,9.5,10122,2135742
+Bhageerathi Haldar,Translator,Mumbai,34,299,9.5,9352,2796248
+Jaya Sinha,Copywriter,Mumbai,36,145,9.5,5115,741675
+Prakash Dalavi,Editor,Mumbai,32,284,7.0,9020,2561680
+Dhuleep Hegadi,Content writing,Delhi,40,286,7.5,6412,1833832
+Sharad Nijasure,Freelance writer,Pune,32,299,6.5,13959,4173741
+Yad Haradas,Data Entry Operator,Delhi,28,75,7.5,10614,796050
+Rura Pandya,Tutor,Mumbai,39,200,8.5,9729,1945800
+Ishwar Joshi,SEO Specialist,Chennai,32,185,8.5,12571,2325635
+Chanda Jayavant,Admin assistance,Pune,39,160,7.5,8436,1349760
+Govinda Singh,Marketers,Pune,37,266,7.5,13239,3521574
+Prashant Chetti,Graphic Designer,Delhi,42,190,7.5,11425,2170750
+Ayaan Bhate,Web Developer,Pune,44,135,7.5,8207,1107945
+Keshav Ajagavakar,Social media,Chennai,31,188,9.5,7521,1413948
+Chunder Nancy,Photographer,Pune,27,57,9.5,6218,354426
+Bhima Haldar,Virtual Assistant,Chennai,32,180,6.5,11592,2086560
+Kapila Harish,Translator,Delhi,30,133,9.5,12227,1626191
+Baibhav Padagavakar,Copywriter,Pune,33,58,8.0,11028,639624
+Krishna Kusari,Editor,Kolkata,30,102,9.0,14400,1468800
+Shanti Ganapuli,Content writing,Mumbai,36,163,7.5,12253,1997239
+Arun Barvadekar,Freelance writer,Kolkata,38,145,7.0,10940,1586300
